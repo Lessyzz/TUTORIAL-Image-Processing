@@ -7,4 +7,4 @@ You need to change folder location on script at lines 16-25-33. Replace the loca
 You can find folder location, Right click to "Image Processing" folder, click to "Properties" and you can see folder "Location" copy paste it.
 It's done ^^
 
-The game url: "https://gamesge.com/en/whack-a-mole/"
+The game url: https://gamesge.com/en/whack-a-mole/
