@@ -1,7 +1,7 @@
 # Image_Processing
 
 Hello,
-The first, i'm not supporting hacking, just i show how to running image processing ^^,
+The first, i'm not supporting hacking, i just show how to running image processing ^^,
 
 You need to change folder location on script at lines 16-25-33. 
 
