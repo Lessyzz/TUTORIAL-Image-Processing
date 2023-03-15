@@ -1,15 +1,8 @@
 # Image_Processing
 
-Hello,
-The first, i'm not supporting hacking, i just show how to running image processing ^^,
+This project is just for educational, not supporting hacking!
+Image processing with python-imagesearch
 
-You need to change folder location on script at lines 16-25-33. 
-
-Replace the locations there with your own.
-
-You can find folder location, Right click to "Image Processing" folder, click to "Properties" and you can see folder "Location" copy paste it.
-
-It's done ^^
-
+You can browse this library here: https://pypi.org/project/python-imagesearch/
 
 The game url: https://gamesge.com/en/whack-a-mole/
