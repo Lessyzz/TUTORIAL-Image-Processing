@@ -3,14 +3,15 @@
 from python_imagesearch.imagesearch import imagesearch
 import pyautogui, os, sys
 
-if getattr(sys, "frozen", False): # Getting current path
-    PATH = os.path.dirname(sys.executable)
-elif __file__:
-    PATH = os.path.dirname(__file__)
-
 class ImageProcessing:
     def __init__(self):
-        self.image = PATH + "/molenose.png"
+        # Get current path
+        if getattr(sys, "frozen", False):
+            self.PATH = os.path.dirname(sys.executable)
+        elif __file__:
+            self.PATH = os.path.dirname(__file__)
+
+        self.image = self.PATH + "/molenose.png"
         self.bang()
 
     def bang(self):
