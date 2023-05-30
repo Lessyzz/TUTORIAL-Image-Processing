@@ -1,4 +1,4 @@
-# Image_Processing
+# Image-Processing
 
 This project is just for educational, not supporting hacking!
 Image processing with "python-imagesearch"
