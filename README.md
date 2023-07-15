@@ -39,4 +39,4 @@ print("X coordinate:", the_image[0])
 print("Y coordinate:", the_image[1])
 ```
 
-If image in screen x or y coordinates must be at least `0`. If image is not in screen x and y coordinates must be `-1`. So if x or y coordinate of image is not `-1`, image in screen!
+If image in screen x or y coordinates must be at least `0`. If image is not in screen x and y coordinates must be `-1`. So if x or y coordinate of image is not equal `-1`, image in screen!
