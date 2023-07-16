@@ -12,7 +12,8 @@ The game url: https://gamesge.com/en/whack-a-mole/
 # Quick tutorial
 
 * Import:
-from python_imagesearch.imagesearch import imagesearch, imagesearcharea
+
+`from python_imagesearch.imagesearch import imagesearch, imagesearcharea`
 
 - Imagesearch usage:
 `imagesearch("<Image>")`
